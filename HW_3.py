@@ -1,8 +1,3 @@
-#   14. В репозитории вашего проекта с дз удалить папки '.idea', '.venv' и '__pycache__'
-
-#   15. Создать файл '.gitignore' и вписать в него ненужные папки для репозитория
-
-
 class Computer:
     def __init__(self, cpu, memory):
         self.__cpu = cpu
